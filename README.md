@@ -1,7 +1,7 @@
 # Securing-Aadhaar-Details
 TITLE: ENCRYPTION OF BIOMETRIC TRAITS TO AVOID PRIVACY ATTACK.
 
-PROBLEM STATEMENT: Now a day the declaration of biometric and other personal data has been imposed not only by the Govt., but by many private entities also. There is no proper mechanism and assurance that these data will be kept safe by such agencies. This is a giant problem and the Hon’ble Supreme Court of India has also intervened into this matter. Hence, technological solution must be devised to prevent the loss, misuse of such data on Internet.
+PROBLEM STATEMENT: Now a days the declaration of biometric and other personal data has been imposed not only by the Govt., but by many private entities also. There is no proper mechanism and assurance that these data will be kept safe by such agencies. This is a giant problem and the Hon’ble Supreme Court of India has also intervened into this matter. Hence, technological solution must be devised to prevent the loss, misuse of such data on Internet.
 
 OUR SOLUTION: We propose govt to provide all the the vendors with fingerprint scanners with a unique Id,(ie mac number of the machine.)and store them in a data base we used MySQL to simulate it,initially we use AES 256 encryption to encrypt the database.All the users must register their adhaar details to the govt and get the client application installed in their mobiles. Our basic idea is a two way authentiaction that is whenever any vendor makes a query for adhaar details then the client will get an otp or an email,If the vendors transaction is genuine then he will grant him access by typing the OTP in an mobile application or via email.
 
