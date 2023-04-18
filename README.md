@@ -1,4 +1,4 @@
-# Securing-Aadhaar-Details
+# Blockchain based Securing-Aadhaar-Details
 TITLE: ENCRYPTION OF BIOMETRIC TRAITS TO AVOID PRIVACY ATTACK.
 
 PROBLEM STATEMENT: Now a days the declaration of biometric and other personal data has been imposed not only by the Govt., but by many private entities also. There is no proper mechanism and assurance that these data will be kept safe by such agencies. This is a giant problem and the Honourable Supreme Court of India has also intervened into this matter. Hence, technological solution must be devised to prevent the loss, misuse of such data on Internet.
